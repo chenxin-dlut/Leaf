@@ -5,8 +5,8 @@
 <h1 align="center">叶子 · Leaf</h1>
 
 <p align="center">
-  一个 macOS 上的 Markdown 阅读器，打开就能读，需要时切换到纯文本编辑。<br>
-  原本是我自己用的小工具，免费分享出来。
+  一个 macOS 上的 Markdown 阅读器，打开就能读或编辑。<br>
+  跟 AI 交互经常需要随时随地阅读 MD 文件，但现有的工具好像大多收费，或者不够轻量，所以让 AI 做了一个自用。
 </p>
 
 <p align="center">
