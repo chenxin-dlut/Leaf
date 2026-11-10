@@ -21,6 +21,8 @@
 
 ## 安装
 
+直接让你的 AI 安装即可，或者：
+
 要求：Apple 芯片（M 系列）的 Mac，macOS 13 或更新。
 
 1. 在 [Releases](https://github.com/chenxin-dlut/Leaf/releases/latest) 页面下载 `Leaf.dmg`。
