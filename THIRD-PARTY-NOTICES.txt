@@ -1,4 +1,4 @@
-LightRead — Third-party licenses
+Leaf — Third-party licenses
 
 
 @mdit/helper 1.1.3
